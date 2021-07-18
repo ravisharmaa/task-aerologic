@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "firstname": "John",
+      "lastname": "Duane",
+      "age": 29,
+      "gender": "male",
+      "picture": "https://homepages.cae.wisc.edu/~ece533/images/watch.png",
+      "job": [
+        {
+          "role": "Senior Android Developer",
+          "exp": 1,
+          "organization": "Walmart labs"
+        },
+        {
+          "role": "Junior Android Developer",
+          "exp": 2,
+          "organization": "Tesla labs"
+        }
+      ],
+      "education": [
+        {
+          "degree": "M. Tech",
+          "institution": "Oxford"
+        },
+        {
+          "degree": "MBA",
+          "institution": "Standford"
+        }
+      ]
+    },
+    {
+      "firstname": "Arturo",
+      "age": 24,
+      "gender": "male",
+      "picture": "https://homepages.cae.wisc.edu/~ece533/images/watch.png",
+      "job": [
+        {
+          "role": "Senior Android Developer",
+          "exp": 1,
+          "organization": "Walmart labs"
+        },
+        {
+          "role": "Junior Android Developer",
+          "exp": 2,
+          "organization": "Tesla labs"
+        }
+      ],
+      "education": [
+        {
+          "degree": "M. Tech",
+          "institution": "Oxford"
+        },
+        {
+          "degree": "Bachelor of Computer Science",
+          "institution": "Standford"
+        }
+      ]
+    },
+    {
+      "firstname": "Franklin",
+      "lastname": "Wood",
+      "age": 25,
+      "picture": "https://homepages.cae.wisc.edu/~ece533/images/watch.png",
+      "job": [
+        {
+          "role": "Junior Android Developer",
+          "exp": 2,
+          "organization": "Tesla labs"
+        }
+      ],
+      "education": [
+        {
+          "degree": "M. Tech",
+          "institution": "Oxford"
+        },
+        {
+          "degree": "Bachelor of Computer Science",
+          "institution": "Standford"
+        },
+        {
+          "degree": "Diploma in Computer Science",
+          "institution": "Cambridge"
+        }
+      ]
+    },
+    {
+      "firstname": "Emma",
+      "lastname": "Wattson",
+      "gender": "female",
+      "picture": "https://homepages.cae.wisc.edu/~ece533/images/watch.png",
+      "job": [
+        {
+          "role": "Senior Android Developer",
+          "exp": 1,
+          "organization": "Walmart labs"
+        }
+      ],
+      "education": [
+        {
+          "degree": "M. Tech",
+          "institution": "Oxford"
+        },
+        {
+          "degree": "Bachelor of Computer Science",
+          "institution": "Standford"
+        }
+      ]
+    }
+  ]
+}
+
